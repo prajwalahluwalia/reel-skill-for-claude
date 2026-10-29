@@ -1,0 +1,7 @@
+{
+  "name": "reel-studio",
+  "version": "1.0.0",
+  "description": "Turn any idea into a ready-to-film reel: hooks, timed script, shot list, caption and hashtags.",
+  "author": { "name": "Prajwal Ahluwalia" },
+  "license": "MIT"
+}
